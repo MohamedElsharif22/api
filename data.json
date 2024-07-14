@@ -110,13 +110,13 @@
       "id": 13,
       "customer_id": 1,
       "date": "2022-01-01",
-      "amount": 1000
+      "amount": 1065
     },
     {
       "id": 14,
       "customer_id": 1,
       "date": "2022-01-02",
-      "amount": 2000
+      "amount": 200
     },
     {
       "id": 15,
@@ -128,37 +128,37 @@
       "id": 16,
       "customer_id": 6,
       "date": "2022-02-02",
-      "amount": 2875
+      "amount": 375
     },
     {
       "id": 17,
       "customer_id": 7,
       "date": "2022-03-02",
-      "amount": 1275
+      "amount": 3275
     },
     {
       "id": 18,
       "customer_id": 8,
       "date": "2022-04-02",
-      "amount": 8752
+      "amount": 682
     },
     {
       "id": 19,
       "customer_id": 6,
       "date": "2022-05-02",
-      "amount": 2875
+      "amount": 652
     },
     {
       "id": 20,
       "customer_id": 7,
       "date": "2022-06-02",
-      "amount": 1275
+      "amount": 2256
     },
     {
       "id": 21,
       "customer_id": 8,
       "date": "2022-07-02",
-      "amount": 8752
+      "amount": 3211
     }
   ]
 }
